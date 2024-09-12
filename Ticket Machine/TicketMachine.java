@@ -3,7 +3,7 @@
  * Write a description of class TicketMachine here.
  *
  * @author Nathanael Valen Susilo
- * @version 0.1
+ * @version 0.2
  */
 public class TicketMachine
 {
@@ -24,8 +24,8 @@ public class TicketMachine
             total = 0;
         }
         else {
-            System.out.println ("Ticket price cannot be negative : " 
-                                + ticketCost); 
+            throw new IllegalArgumentException(
+            "Ticket price must have positive value : " + ticketCost);
         }
     }
 
