@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\r\n\ @author\ Nathanael\ Valen\ Susilo\ -\ 5025231099\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=Calculator()
+comment2.params=
+comment2.target=double\ getResult()
+comment3.params=
+comment3.target=void\ updateDisplay()
+comment4.params=result
+comment4.target=void\ setResult(double)
+comment5.params=
+comment5.target=void\ reset()
+numComments=6

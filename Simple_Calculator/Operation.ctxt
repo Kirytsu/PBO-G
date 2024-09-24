@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Operation
+comment0.text=\r\n\ Class\ Operation\ to\ calculate\ the\ number\ in\ calculator.\r\n\r\n\ @author\ Nathanael\ Valen\ Susilo\ -\ 5025231099\r\n\ @version\ 0.1\r\n
+comment1.params=calculator
+comment1.target=Operation(Calculator)
+comment2.params=value
+comment2.target=void\ add(double)
+comment3.params=value
+comment3.target=void\ subtract(double)
+comment4.params=value
+comment4.target=void\ multiply(double)
+comment5.params=value
+comment5.target=void\ divide(double)
+numComments=6
