@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bid
+comment1.params=bidder\ value
+comment1.target=Bid(Person,\ long)
+comment2.params=
+comment2.target=long\ getValue()
+comment3.params=
+comment3.target=Person\ getBidder()
+numComments=4
