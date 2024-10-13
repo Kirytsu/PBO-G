@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Inventory()
+comment2.params=item\ jumlah
+comment2.target=void\ tambahItem(java.lang.String,\ int)
+comment3.params=item
+comment3.target=void\ hapusItem(java.lang.String)
+comment4.params=
+comment4.target=void\ tampilkanItem()
+comment5.params=
+comment5.target=void\ saveToFile()
+comment6.params=
+comment6.target=void\ loadFromFile()
+comment7.params=text\ maxWidth
+comment7.target=java.util.List\ wrapText(java.lang.String,\ int)
+numComments=8
