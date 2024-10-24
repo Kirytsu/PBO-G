@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FoodOrder
+comment1.params=
+comment1.target=FoodOrder()
+comment2.params=item
+comment2.target=void\ addMenuItem(MenuItem)
+comment3.params=item
+comment3.target=void\ removeMenuItem(MenuItem)
+comment4.params=
+comment4.target=double\ getTotalPrice()
+comment5.params=
+comment5.target=void\ payOrder()
+comment6.params=
+comment6.target=boolean\ isPaid()
+comment7.params=
+comment7.target=void\ displayOrder()
+numComments=8

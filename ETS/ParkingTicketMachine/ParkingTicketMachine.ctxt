@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ParkingTicketMachine
+comment1.params=price
+comment1.target=ParkingTicketMachine(long)
+comment2.params=money
+comment2.target=void\ insertMoney(long)
+comment3.params=
+comment3.target=void\ issueTicket()
+comment4.params=
+comment4.target=void\ retrieveBalance()
+comment5.params=time
+comment5.target=void\ setTimePurchase(long)
+comment6.params=
+comment6.target=long\ getTimePurchased()
+comment7.params=
+comment7.target=long\ getBalance()
+comment8.params=
+comment8.target=long\ getPrice()
+numComments=9
