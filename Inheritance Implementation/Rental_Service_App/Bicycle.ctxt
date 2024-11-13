@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bicycle
+comment1.params=brand\ model\ year\ bicycleType
+comment1.target=Bicycle(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ displayInfo()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RegularUser
+comment1.params=username
+comment1.target=RegularUser(java.lang.String)
+comment2.params=
+comment2.target=void\ displayRole()
+numComments=3

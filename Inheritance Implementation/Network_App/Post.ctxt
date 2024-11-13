@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Post
+comment1.params=content\ author
+comment1.target=Post(java.lang.String,\ User)
+comment2.params=
+comment2.target=java.lang.String\ getContent()
+comment3.params=comment
+comment3.target=void\ addComment(java.lang.String)
+comment4.params=
+comment4.target=void\ like()
+comment5.params=
+comment5.target=void\ displayContent()
+numComments=6

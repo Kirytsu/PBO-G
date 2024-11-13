@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AdminUser
+comment1.params=username
+comment1.target=AdminUser(java.lang.String)
+comment2.params=
+comment2.target=void\ displayRole()
+comment3.params=user\ post
+comment3.target=void\ deletePost(User,\ Post)
+numComments=4
