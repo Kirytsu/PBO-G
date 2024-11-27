@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=location
+comment1.target=Animal(Location)
+comment2.params=
+comment2.target=boolean\ isAlive()
+comment3.params=
+comment3.target=void\ setDead()
+comment4.params=
+comment4.target=Location\ getLocation()
+comment5.params=location
+comment5.target=void\ setLocation(Location)
+comment6.params=field\ newAnimals
+comment6.target=void\ act(Field,\ java.util.List)
+numComments=7

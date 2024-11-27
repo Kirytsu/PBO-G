@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Field
+comment1.params=width\ height
+comment1.target=Field(int,\ int)
+comment2.params=location
+comment2.target=Animal\ getAnimalAt(Location)
+comment3.params=animal
+comment3.target=void\ placeAnimal(Animal)
+comment4.params=location
+comment4.target=void\ clearLocation(Location)
+comment5.params=location
+comment5.target=java.util.List\ adjacentLocations(Location)
+comment6.params=location
+comment6.target=Location\ freeAdjacentLocation(Location)
+comment7.params=
+comment7.target=void\ printField()
+numComments=8

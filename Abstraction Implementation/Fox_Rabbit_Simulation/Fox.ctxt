@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fox
+comment1.params=location
+comment1.target=Fox(Location)
+comment2.params=field\ newAnimals
+comment2.target=void\ act(Field,\ java.util.List)
+comment3.params=field
+comment3.target=Location\ hunt(Field)
+numComments=4

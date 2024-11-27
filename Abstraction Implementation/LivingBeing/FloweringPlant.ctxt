@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FloweringPlant
+comment1.params=name
+comment1.target=FloweringPlant(java.lang.String)
+comment2.params=
+comment2.target=void\ breathe()
+comment3.params=
+comment3.target=void\ grow()
+comment4.params=
+comment4.target=void\ photosynthesize()
+comment5.params=
+comment5.target=void\ bloom()
+numComments=6

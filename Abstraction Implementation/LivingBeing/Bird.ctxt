@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bird
+comment1.params=name
+comment1.target=Bird(java.lang.String)
+comment2.params=
+comment2.target=void\ breathe()
+comment3.params=
+comment3.target=void\ grow()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=
+comment5.target=void\ sing()
+numComments=6
