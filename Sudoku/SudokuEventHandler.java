@@ -36,6 +36,7 @@ public class SudokuEventHandler {
             for (int j = 0; j < 9; j++) {
                 grid[i][j].setForeground(null);
                 grid[i][j].setFont(grid[i][j].getFont().deriveFont(java.awt.Font.PLAIN)); 
+                grid[i][j].setEditable(false);
             }
         }
     }
