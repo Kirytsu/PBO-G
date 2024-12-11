@@ -16,7 +16,7 @@ This is a simple Sudoku game built using Java and Swing for the graphical user i
 - **Game Over**: Displays a "You Win!" or "You Lose" message based on the result.
 
 ## Requirements
-- Java 8 or higher.
+- Java 14 or higher.
 - A text editor or an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans.
 
 ## Manual
