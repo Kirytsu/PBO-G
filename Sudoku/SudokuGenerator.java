@@ -101,7 +101,14 @@ public class SudokuGenerator {
         Random r = new Random();
         
         //Number of cell/grid that need an input
-        int maxCount = 10;
+        int maxCount;
+        if (difficulty == 0){ //easy
+            maxCount = 20;
+        } else if (difficulty == 2){ //hard
+            maxCount = 40;
+        } else { //default or medium
+            maxCount = 30;
+        }
         
         //Reset the old puzzle.
         for(int i = 0; i < 9; i++){
